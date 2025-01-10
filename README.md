@@ -1,6 +1,4 @@
-# Alertas
-
-### Alertas: Smart Gas Leak Detection System  
+# Alertas: Smart Gas Leak Detection System  
 
 **Alertas** adalah sistem cerdas untuk mendeteksi dan memprediksi kebocoran gas LPG, mengintegrasikan perangkat IoT berbasis **ESP8266** dengan aplikasi berbasis web. Sistem ini menawarkan solusi inovatif untuk meningkatkan keamanan rumah tangga dan komersial melalui fitur-fitur berikut:  
 - **Deteksi kebocoran gas secara akurat** menggunakan sensor gas LPG.  
